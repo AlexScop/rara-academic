@@ -4,7 +4,7 @@ Theme URI: http://reisgn.com
 Author: Reisgn
 Author URI: http://alexscop.com
 Description: Rara Academic is a professionally designed WordPress theme which is best suited for Education Institution, Schools and Universities. Although developed with Education institutions in mind, this theme is not limited to just educational websites. The theme is flexible enough to be used for business and corporate websites. Theme is highly customizable with layout settings and several other theme options which can be customized by using Powerful Theme Options panel. Rara Academic comes with several features to make user-friendly, interactive and visually stunning website. Such features include custom menu, Call to Action Button, Full width Banner, Testimonial section, Courses section and social media. It has four footer areas and a right sidebar and includes three custom widgets for the recent posts, popular posts, and social media. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Rara Academic helps you to easily and intuitively create professional and appealing websites. Check the demo at http://raratheme.com/preview/rara-academic/, documentation at http://raratheme.com/documentation/rara-academic and get support at https://raratheme.com/support-ticket
-Version: 1.2.2
+Version: 1.2.4
 GitHub Theme URI: https://github.com/AlexScop/rara-academic
 */
 
@@ -33,7 +33,7 @@ GitHub Theme URI: https://github.com/AlexScop/rara-academic
 --------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
-# Normalize code
+# Normalize
 --------------------------------------------------------------*/
 
 @import "css/animate.css" screen;
